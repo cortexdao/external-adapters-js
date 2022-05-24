@@ -1,5 +1,13 @@
 # @chainlink/ens-adapter
 
+## 1.0.4
+
+### Patch Changes
+
+- Updated dependencies [7313ac0a4]
+  - @chainlink/ea-bootstrap@2.6.1
+  - @chainlink/ea-test-helpers@1.2.0
+
 ## 1.0.3
 
 ### Patch Changes

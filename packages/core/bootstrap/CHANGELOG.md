@@ -1,5 +1,11 @@
 # @chainlink/ea-bootstrap
 
+## 2.6.1
+
+### Patch Changes
+
+- 7313ac0a4: Use logical OR instead of null coalesce for LOG_LEVEL
+
 ## 2.6.0
 
 ### Minor Changes

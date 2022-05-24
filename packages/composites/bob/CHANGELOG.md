@@ -1,5 +1,14 @@
 # @chainlink/bob-adapter
 
+## 1.0.55
+
+### Patch Changes
+
+- Updated dependencies [7313ac0a4]
+  - @chainlink/ea-bootstrap@2.6.1
+  - @chainlink/ea-test-helpers@1.2.0
+  - @chainlink/json-rpc-adapter@1.2.26
+
 ## 1.0.54
 
 ### Patch Changes
